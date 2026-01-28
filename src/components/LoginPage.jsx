@@ -18,6 +18,7 @@ const LoginPage = () => {
                 <option value="" disabled>Select Role</option>
                 <option value="Employee">Employee</option>
                 <option value="HR">HR</option>
+                <option value="admin">Admin</option>
               </select>
             </div>
           </div>
